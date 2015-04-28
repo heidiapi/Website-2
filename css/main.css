@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background: url(http://i.imgur.com/Hq1u2az.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: red;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-size: 30px;
+}
+input {
+  border: 0;
+  padding: 12px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: black;
+}
